@@ -9,9 +9,9 @@ https://www.kaggle.com/datasets/piyushjain16/amazon-product-data
 #### Seth Godin's Blog Dataset
 https://www.kaggle.com/datasets/glushko/seth-godins-blogs-dataset
 
-### After downloading the dataset place it in the folder where python file are present. Replace the required dataset in the code.
+#### After downloading the dataset place it in the folder where python file are present. Replace the required dataset in the code.
 
-### For each step run the main.py file again.
+#### For each step run the main.py file again.
 
 ### How to run the code
 ```
